@@ -7,6 +7,7 @@ services:
       - '9200:9200'
     volumes:
       - elasticsearch-data:/usr/share/elasticsearch/data
+      - $PWD/elasticsearch.yml:/usr/share/elasticsearch/config/elasticsearch.yml
 
 volumes:
   elasticsearch-data:
