@@ -1,6 +1,6 @@
 [
 {
-    "id_user": "1",
+    "id_user": "djfkfjsdk",
     "email_user": "kaplun@gmail.com",
     "category": "pothole",
     "status": "new",
@@ -16,23 +16,7 @@
     }
 },
 {
-    "id_user": "2",
-    "email_user": "bstoraci@gmail.com",
-    "category": "graffiti",
-    "status": "new",
-    "comments": [
-        {
-            "value": "These appeared yesterday night. Would be great to clean them up!",
-            "date": "2017-05-12",
-        }
-    ],
-    "location": {
-        "lat": 46.227394,
-        "lon": 6.0568056
-    }
-},
-{
-    "id_user": "3",
+    "id_user": "erkerj",
     "email_user": "montull@gmail.com",
     "category": "broken-sign",
     "status": "wip",

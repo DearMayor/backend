@@ -1,0 +1,37 @@
+{
+    "mappings": {
+        "dearmayor": {
+            "_all": {"enabled": false},
+            "properties": {
+                "id_user": {
+                    "type": "keyword"
+                },
+                "email_user": {
+                    "type": "keyword"
+                },
+                "category": {
+                    "type": "keyword"
+                },
+                "status": {
+                    "type": "keyword"
+                },
+                "comments": {
+                    "properties": {
+                        "value": {
+                            "type": "text"
+                        },
+                        "date": {
+                            "type": "date"
+                        }
+                    }
+                },
+                "location": {
+                    "type": "geo_point"
+                },
+                "photo": {
+                    "type": "binary"
+                }
+            }
+        }
+    }
+}
