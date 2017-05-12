@@ -1,0 +1,4 @@
+tunnels:
+  elasticsearch:
+    proto: http
+    addr: 9200
