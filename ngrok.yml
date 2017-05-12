@@ -2,4 +2,3 @@ tunnels:
   elasticsearch:
     proto: http
     addr: 9200
-    subdomain: dearmayor

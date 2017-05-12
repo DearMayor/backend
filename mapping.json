@@ -28,7 +28,7 @@
                 "location": {
                     "type": "geo_point"
                 },
-                "photo": {
+                "image": {
                     "type": "binary"
                 }
             }
