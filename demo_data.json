@@ -1,0 +1,50 @@
+[
+{
+    "id_user": "1",
+    "email_user": "kaplun@gmail.com",
+    "category": "pothole",
+    "status": "new",
+    "comments": [
+        {
+            "value": "This is very dangerous",
+            "date": "2017-05-12",
+        }
+    ],
+    "location": {
+        "lat": 46.226446,
+        "lon": 6.0534553
+    }
+},
+{
+    "id_user": "2",
+    "email_user": "bstoraci@gmail.com",
+    "category": "graffiti",
+    "status": "new",
+    "comments": [
+        {
+            "value": "These appeared yesterday night. Would be great to clean them up!",
+            "date": "2017-05-12",
+        }
+    ],
+    "location": {
+        "lat": 46.227394,
+        "lon": 6.0568056
+    }
+},
+{
+    "id_user": "3",
+    "email_user": "montull@gmail.com",
+    "category": "broken-sign",
+    "status": "wip",
+    "comments": [
+        {
+            "value": "Some car must have bumped into it...",
+            "date": "2017-05-12",
+        }
+    ],
+    "location": {
+        "lat": 46.2293793,
+        "lon": 6.0593274
+    }
+},
+]
