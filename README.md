@@ -2,6 +2,20 @@
 Backend prototype
 
 
+## Install
+
+Make sure you have these tools installed before you start:
+- Docker and Docker Compose
+- ngrok
+
+If you are in a Mac:
+
+```shell
+brew cask install docker
+brew cask install ngrok
+```
+
+
 ## Quick start
 
 Start Elasticsearch
