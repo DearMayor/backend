@@ -1,0 +1,16 @@
+{
+    "id_user": "djfkfjsdk",
+    "email_user": "kaplun@gmail.com",
+    "category": "pothole",
+    "status": "new",
+    "comments": [
+        {
+            "value": "This is very dangerous",
+            "date": "2017-05-12"
+        }
+    ],
+    "location": {
+        "lat": 46.226446,
+        "lon": 6.0534553
+    }
+}

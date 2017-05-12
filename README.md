@@ -27,7 +27,7 @@ docker-compose up -d
 Open a tunnel so that people can send requests to the Elasticsearch instance
 
 ```shell
-ngrok start --config=ngrok.yml elasticsearch
+ngrok start --subdomain=dearmayor --config=ngrok.yml elasticsearch
 ```
 
 ## Initializing ES

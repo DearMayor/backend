@@ -1,0 +1,16 @@
+{
+    "id_user": "erkerj",
+    "email_user": "montull@gmail.com",
+    "category": "broken-sign",
+    "status": "wip",
+    "comments": [
+        {
+            "value": "Some car must have bumped into it...",
+            "date": "2017-05-12"
+        }
+    ],
+    "location": {
+        "lat": 46.2293793,
+        "lon": 6.0593274
+    }
+}
